@@ -1,6 +1,6 @@
 # HomeBox
 
-Try-out just starts THis is a very great home inventory management app.
+Try-out just starts. This is a very great home inventory management app.
 
 ## Deployment with docker compose
 Prepare the yaml file
